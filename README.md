@@ -4,6 +4,6 @@
 
 🎥YouTubeチャンネル
 
-youtube.com/@nekoniisan
+https://www.youtube.com/@nekoniisan
 
 📓stable-diffusion-webui
