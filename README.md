@@ -1,10 +1,8 @@
-### ネコにいさんチャンネルのGitHubページです😸
+### ネコにいさんチャンネルのGitHubページです😸<br>
 ### 画像生成AIのGoogleColabノートが多くなったため作りました。 
-
-
-🎥YouTubeチャンネル
-
+<br>
+🎥YouTubeチャンネル<br>
 https://www.youtube.com/@nekoniisan
-
-📓stable-diffusion-webui
+<br><br>
+📓stable-diffusion-webui<br>
 [https://github.com/camenduru/stable-diffusion-webui-colab](https://github.com/nekoniii3/stable-diffusion-webui-colab)
