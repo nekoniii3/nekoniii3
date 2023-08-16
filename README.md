@@ -1,5 +1,5 @@
 ### ネコにいさんチャンネルのGitHubページです😸<br>
-### 画像生成AIのGoogleColabノートが多くなったため作りました。 
+### 画像生成AIのなどのGoogleColabノートが中心です。 
 <br>
 🎥YouTubeチャンネル<br>
 https://www.youtube.com/@nekoniisan
