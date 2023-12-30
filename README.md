@@ -4,7 +4,7 @@
 🎥YouTubeチャンネル<br>
 https://www.youtube.com/@nekoniisan
 <br><br>
-📓GoogleColabサンプル<br>
+📓動画で利用したGoogleColabサンプル<br>
 https://github.com/nekoniii3/Colabo_Samples
 <br><br>
 
