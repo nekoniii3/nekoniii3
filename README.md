@@ -4,13 +4,24 @@
 🎥YouTubeチャンネル<br>
 https://www.youtube.com/@nekoniisan
 <br><br>
-📓stable-diffusion-webuiのColabノートブック<br>
-
-[https://github.com/nekoniii3/stable-diffusion-webui-colab](https://github.com/nekoniii3/stable-diffusion-webui-colab)
-
+📓GoogleColabサンプル<br>
+https://github.com/nekoniii3/Colabo_Samples
+<br><br>
 
 ## デモページ
 
 🍩 GPT-4 VS Gemini Pro
 <br>
 https://huggingface.co/spaces/nekoniii3/GPT_VS_GEMINI
+
+🍩 Code Interpreter対応チャット
+<br>
+https://huggingface.co/spaces/nekoniii3/GPT_Chat_Code_Interpreter
+
+🍩 DallE3 Vision対応チャット（要OpenAI APIキー）
+<br>
+https://huggingface.co/spaces/nekoniii3/GPT_Chat_Image
+
+🍩 英会話などWhisper・TTS対応チャット
+<br>
+https://huggingface.co/spaces/nekoniii3/GPT_Chat_Audio
