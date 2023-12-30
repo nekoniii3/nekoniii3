@@ -1,5 +1,5 @@
-### ネコにいさんチャンネルのGitHubページです😸<br>
-### 最近ではGradioのChatアプリの更新が多いです。 
+## ネコにいさんチャンネルのGitHubページです😸<br>
+## 最近ではGradioのChatアプリの更新が多いです。 
 <br>
 🎥YouTubeチャンネル<br>
 https://www.youtube.com/@nekoniisan
