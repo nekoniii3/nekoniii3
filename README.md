@@ -10,7 +10,7 @@ https://github.com/nekoniii3/Colabo_Samples
 
 ## デモページ
 
-🍩 GPT-4 VS Gemini Pro
+🍩 [GPT-4 VS Gemini Pro](https://github.com/nekoniii3/GPT_VS_GEMINI)
 <br>
 https://huggingface.co/spaces/nekoniii3/GPT_VS_GEMINI
 
