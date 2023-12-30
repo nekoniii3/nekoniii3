@@ -45,4 +45,3 @@ https://github.com/nekoniii3/openai_multi_chat/tree/main/Audio_Chat
 [Hugging Faceデモページ](https://huggingface.co/spaces/nekoniii3/GPT_Chat_Audio)
 
 <br>
-<br>
