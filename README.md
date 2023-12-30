@@ -14,9 +14,10 @@ https://github.com/nekoniii3/Colabo_Samples
 <br>
 https://huggingface.co/spaces/nekoniii3/GPT_VS_GEMINI
 
-🍩 Code Interpreter対応チャット
+🍩 [Code Interpreter対応チャット](https://github.com/nekoniii3/openai_multi_chat/tree/main/Code_Interpreter)
 <br>
 https://huggingface.co/spaces/nekoniii3/GPT_Chat_Code_Interpreter
+<br>
 
 🍩 DallE3 Vision対応チャット（要OpenAI APIキー）
 <br>
