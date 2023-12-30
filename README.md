@@ -8,11 +8,15 @@ https://www.youtube.com/@nekoniisan
 https://github.com/nekoniii3/Colabo_Samples
 <br><br>
 
-## Chatアプリ デモページ
+## 各種Chatアプリ
 
 🍩 GPT-4 VS Gemini Pro
 <br>
-https://huggingface.co/spaces/nekoniii3/GPT_VS_GEMINI →[ソース](https://github.com/nekoniii3/GPT_VS_GEMINI)
+https://github.com/nekoniii3/GPT_VS_GEMINI
+<br>
+
+Hugging Faceデモページ<br>
+https://huggingface.co/spaces/nekoniii3/GPT_VS_GEMINI
 
 🍩 Code Interpreter対応チャット
 <br>
