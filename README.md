@@ -15,8 +15,9 @@ https://github.com/nekoniii3/Colabo_Samples
 https://github.com/nekoniii3/GPT_VS_GEMINI
 <br>
 
-Hugging Faceデモページ<br>
-https://huggingface.co/spaces/nekoniii3/GPT_VS_GEMINI
+[Hugging Faceデモページ](https://huggingface.co/spaces/nekoniii3/GPT_VS_GEMINI)
+
+<br>
 
 🍩 Code Interpreter対応チャット
 <br>
