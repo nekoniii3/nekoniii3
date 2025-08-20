@@ -4,9 +4,9 @@
 https://www.youtube.com/@nekoniisan
 <br><br>
 
-## アプリ
+## 🧊 開発したアプリ
 
-🍩🧊 Bluesky Gallery Mobile
+🍩 Bluesky Gallery Mobile
 <br><br>
 Blueskyの画像を見やすくしたWebアプリです。
 <br>
