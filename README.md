@@ -1,4 +1,4 @@
-### ネコにいさんチャンネルのGitHubページです<br>
+### IT関連動画を投稿するネコにいさんチャンネルのGitHubページです<br>
 <br>
 🎥YouTubeチャンネル<br>
 https://www.youtube.com/@nekoniisan
@@ -13,6 +13,6 @@ Blueskyの画像を見やすくしたWebアプリです。
 https://bluesky-media-gallery.vercel.app
 <br>
 
-Source→整備中
+Source→https://github.com/nekoniii3/bluesky-gallery-mbile
 
 <br>
